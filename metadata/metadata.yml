@@ -1,5 +1,6 @@
 metadata_version: 1
 name: HSFP-preprocess
-description: Basic structure of a capsule to be customized as needed.
+description: Preprocessing for hyperspectral fiber photometry data.
 authors:
 - name: AIND
+- name: Smrithi Sunil
